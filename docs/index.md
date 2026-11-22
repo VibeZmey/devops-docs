@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://vibezmey.github.io/devops-docs/`.
-
-[Контрольная ссылка](missing-page.md).
